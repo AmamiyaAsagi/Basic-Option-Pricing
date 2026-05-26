@@ -32,9 +32,9 @@ The implementation prices both European call and put options using a discretized
 
 ## Files
 
-- `Monte Carlo.py`: Monte Carlo simulation pricing model
-- `BTree.py`: Binomial tree pricing model
-- `Explicit Finite Difference.py`: Explicit finite difference pricing model
+- `monte_carlo.py`: Monte Carlo simulation pricing model
+- `binomial_tree.py`: Binomial tree pricing model
+- `explicit_finite_difference.py`: Explicit finite difference pricing model
 
 ## Main Assumptions
 
